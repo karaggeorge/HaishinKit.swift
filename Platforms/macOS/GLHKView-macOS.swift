@@ -1,6 +1,7 @@
 #if os(macOS)
 
 import AVFoundation
+import Cocoa
 import GLUT
 import OpenGL.GL3
 
